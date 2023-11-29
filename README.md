@@ -2,7 +2,7 @@
 
 Welcome to the Huffman Coding Project repository! This project is structured in four stages, each of which focuses on different aspects of Huffman coding and tree construction.
 
-#### [Stage I] 
+## [Stage I] 
 involves researching and becoming familiar with the Arabic alphabet. Symbols are selected, a probability is assigned to each, and a short report is generated.
 
 ## [Stage II]  
